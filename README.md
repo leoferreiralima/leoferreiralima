@@ -26,6 +26,12 @@ Feel free to explore my repositories to see more of my work.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonardo-ferreira-lima/).
 - 🐦 Follow me on [Twitter](https://twitter.com/leoferreir4l).
 
+
+<a href="https://www.buymeacoffee.com/leoferreira">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=leoferreira&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+
+
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoferreiralima&show_icons=true&theme=dark)
