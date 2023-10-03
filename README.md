@@ -22,7 +22,7 @@ Feel free to explore my repositories to see more of my work.
 
 ## Get in Touch
 - 💬 Ask me about anything [here](https://github.com/leoferreiralima/leoferreiralima/issues)
-- 📫 You can reach me via email at (leoferreiralima@yahoo.com)[leoferreiralima@yahoo.com].
+- 📫 You can reach me via email at [leoferreiralima@yahoo.com](leoferreiralima@yahoo.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonardo-ferreira-lima/).
 - 🐦 Follow me on [Twitter](https://twitter.com/leoferreir4l).
 
