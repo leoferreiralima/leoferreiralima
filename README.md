@@ -37,5 +37,8 @@ Feel free to explore my repositories to see more of my work.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoferreiralima&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoferreiralima&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=leoferreiralima&show_icons=true&theme=white) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoferreiralima&langs_count=3&layout=compact)  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoferreiralima)
+
+![Metrics](/github-metrics.svg)
 
 Thanks for visiting my GitHub profile! 😄
