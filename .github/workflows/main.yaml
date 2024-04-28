@@ -1,6 +1,6 @@
 name: GitHub metrics as SVG image
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   push: {branches: "main"}
 jobs:
   github-metrics:
