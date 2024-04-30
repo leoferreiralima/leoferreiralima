@@ -22,3 +22,6 @@ jobs:
           plugin_languages: yes
           plugin_isocalendar: yes
           plugin_followup: yes
+          plugin_rss: yes
+          plugin_rss_source: https://www.leoferreira.dev/rss.xml
+          plugin_rss_limit: 4
