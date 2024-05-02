@@ -16,8 +16,8 @@ I'm a Software Architect/Developer with a passion for code. Welcome to my GitHub
 Here are some of the projects I'm proud of:
 
 - [TabNewsSdk](https://github.com/leoferreiralima/tabnews-sdk): SDK for consume [tabnews](https://www.tabnews.com.br/) apis.
-- [CodeBites](https://codebites.dev): Tech Blog Aggregator.
-- [leoferreira.dev](https://leoferreira.dev): Personal Page and Blog.
+- [CodeBites](https://codebites.dev?utm_source=github_profile): Tech Blog Aggregator.
+- [leoferreira.dev](https://leoferreira.dev?utm_source=github_profile): Personal Page and Blog.
   
 Feel free to explore my repositories to see more of my work.
 
