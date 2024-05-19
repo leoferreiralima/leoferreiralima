@@ -1,5 +1,6 @@
 name: GitHub metrics as SVG image
 on:
+  workflow_dispatch:
   schedule: [{cron: "0 3/12 * * *"}]
   push: {branches: "main"}
 jobs:
