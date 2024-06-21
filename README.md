@@ -37,6 +37,21 @@ Feel free to explore my repositories to see more of my work.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoferreiralima&show_icons=true&theme=dark)
 
+
+<svg fill="none" viewBox="0 0 600 400" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            .track {
+              background-image: url("https://leoferreira.dev/github?utm_source=github&utm_campaign=profile");
+            }
+          </style>
+      </div>
+
+      <div class="track"></div>
+  </foreignObject>
+</svg>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoferreiralima&layout=compact&theme=dark)
 
 ![Metrics](/github-metrics.svg)
