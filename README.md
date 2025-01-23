@@ -7,7 +7,7 @@ I'm a Software Architect/Developer with a passion for code. Welcome to my GitHub
 ## About Me
 - 😄 Pronouns: He/Him/His
 - 🌍 I'm based in Sorocaba - SP.
-- 💼 Currently working as Custom Software Engineering Specialist at Accenture.
+- 💼 Currently working as Senior Software Engineering at Luizalabs.
 - 💡 I'm interested in Animes and Code.
 - 📚 I'm constantly learning and exploring new technologies and tools.
 
